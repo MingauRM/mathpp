@@ -1,11 +1,12 @@
 [package]
 name = "mingaurm/mathpp"
-version = "1.0.0"
+version = "1.0.1"
 description = "A math module that adds more functions that Lua's default doesn't have."
+repository = "https://github.com/MingauRM/mathpp"
 license = "None"
 authors = ["Miguel Rossetti Mocellin"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-exclude = ["rokit.toml", "selene.toml"]
+exclude = ["rokit.toml", "selene.toml", "README.md"]
 
 [dependencies]
